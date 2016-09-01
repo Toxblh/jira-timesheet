@@ -1,7 +1,7 @@
 {
   "name": "jira-timesheet",
   "main": "./lib/jira-timesheet",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Send you worktime in timesheet",
   "keywords": [],
   "activationCommands": {
