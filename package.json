@@ -1,8 +1,8 @@
 {
-  "name": "Jira-timesheet",
+  "name": "jira-timesheet",
   "main": "./lib/jira-timesheet",
-  "version": "0.1.0",
-  "description": "A short description of your package",
+  "version": "0.1.1",
+  "description": "Send you worktime in timesheet",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "jira-timesheet:toggle"
