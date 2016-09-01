@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle jira-timesheet",
+        "command": "jira-timesheet:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "jira-timesheet",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "jira-timesheet:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
